@@ -1,12 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - mayank18049
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - hipec/cse513
+  - mayank18049/PYNQPolarCodes
+  - ofalk/libdnet
+  - mayank18049/Super-Resolution
+  - pmodels/argobots

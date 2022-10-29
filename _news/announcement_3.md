@@ -1,7 +1,6 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2022-01-22 15:59:00-0400
 inline: true
 ---
-
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+[FPGAs and Python tutorial (Pynq & Viola Basics)](https://tinyurl.com/pynqvideo1)
