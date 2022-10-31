@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /repositories/
-title: repositories
+title: Github Repos
 description: Some of the projects I created or contributed to.
 nav: true
 nav_order: 3
