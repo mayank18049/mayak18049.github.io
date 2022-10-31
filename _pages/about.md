@@ -18,11 +18,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 Hi
-I am Mayank Rawat, Undergrad@IIITD pursuing Computer Science and Engineering since 2018. I am working with Dr Rinku Shah on Scalable and Reconfigurable in-network cryptography using microservice concepts. I am currently working on integrating FPGA-based design with Programmable DataPlanes like SmartNICs. I have also worked for 6 months in Ericsson Research as an Intern with Dr Najangud Narendra for Microservice Migration and Traffic Shifting in the 5G ecosystem. 
+I am Mayank Rawat, Undergrad@IIITD pursuing Computer Science and Engineering since 2018. I am working with [Dr. Rinku Shah](https://faculty.iiitd.ac.in/~rinku/) on Scalable and Reconfigurable in-network cryptography using microservice concepts. I am currently working on integrating FPGA-based design with Programmable DataPlanes like SmartNICs. I have also worked for 6 months in Ericsson Research as an Intern with [Dr. Najangud C. Narendra](https://www.linkedin.com/in/nanjangud-c-narendra-5398a92/?originalSubdomain=in) for Microservice Migration and Traffic Shifting in the 5G ecosystem. 
 
 I am interested in broad topics of Programmable Data Planes, Reconfigurable Hardware-Software Codesign, Computer Networks and Operating Systems. Hardware is the new software :)
 
-In my free time, I enjoy running from running; besides that, I love cycling, rock climbing and building and tinkering with computers. 
+In my free time, I enjoy running from running; besides that, I love cycling, rock climbing. I also like building and tinkering with computers. 
 
 
 
