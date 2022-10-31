@@ -20,29 +20,29 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Research Assistant
+    - title: Research Assistant @Network Security Lab
       institution: Indraprastha Institute of Information Technology Delhi.
       year: Sept'22 - Present
       description:
         - Developing a scalable framework for SmartNIC cryptographic functions offload to FPGA 
         - Tech Stack:Vivado, Vivado HLS, Vivado SDK, Netronome SDK, DPDK.
     
-    - title: Research Intern
+    - title: Research Intern @Network Security Lab
       institution: Indraprastha Institute of Information Technology Delhi.
       year: June'22 - Aug'22
       description:
         - Worked on configuring Netberg Aurora 610 switch and testing Traffic Manager Delay for different network topologies.
         - TechStack:- Intel P4 Studio, Netronome SDK, DPDK-Pktgen.
 
-    - title: Research Assistant
+    - title: Research Intern @Algorithms to Architecutre Lab
       institution: Indraprastha Institute of Information Technology Delhi.
       year: Jun'22 - Aug'22
       description:
         - Worked on Multi-Target Detection with Joint Radio Communication. 
         - Tech Stack:- PYNQ, Python
 
-    - title: Research Intern
-      institution: Ericsson Research
+    - title: Research Intern @Cloud System Platform Team
+      institution: Ericsson Research, Banglore
       year: Jul'21 - Jan'21
       description:
         - Developed Proof of Concept Application Mobility Framework for Edge Server in 5G Domains
@@ -78,10 +78,10 @@
 - title: Academic Interests 
   type: nested_list
   contents:
-    - title: Software Defined Networking.
-    - title: Computer Architecutre.
-    - title: Dataplane Programming.
-    - title: Hardware Software Codesign.
+    - title: Software Defined Networking
+    - title: Computer Architecutre
+    - title: Dataplane Programming
+    - title: Hardware Software Codesign
 
 # - title: Other Interests
 #   type: list
